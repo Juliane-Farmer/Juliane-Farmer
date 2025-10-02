@@ -4,8 +4,9 @@ Former business academy graduate now diving into Creative Technologies & AI.
 ## Projects
 - **CodePalAI**: An AI-powered assistant that corrects code and explains what went wrong.  
 - **MazeSolverAI**: A Unity-based AI agent that solves a challenging maze using a combination of behaviour cloning and reinforcement learning.  
-- **PawTalk**: A computer vision project that recognizes and classifies dog emotions via a camera and showcases the detections via raspberry pi.  
-- **FlappyBird AI**: An AI agent trained to play Flappy Bird using reinforcement learning.  
+- **PawTalk**: A computer vision project that recognizes and classifies dog emotions via a camera and showcases the detections via Raspberry Pi.  
+- **FlappyBird AI**: An AI agent trained to play Flappy Bird using reinforcement learning.
+- **PoseCoachAI**: Deep learning model giving real-time feedback with MediaPipe.
 
 ## Tech Stack
 
@@ -13,17 +14,18 @@ Former business academy graduate now diving into Creative Technologies & AI.
 ![Python][py] ![C#][cs] ![JavaScript][js] ![HTML][html] ![CSS][css]
 
 **Frameworks & Libraries**  
-![FastAPI][fa] ![Flask][fl] ![React][react] ![Tailwind][tailwind]  
-![TensorFlow][tf] ![PyTorch][pt] ![Keras][keras] ![OpenCV][cv] ![Streamlit][streamlit]
+![FastAPI][fa] ![Flask][fl] ![React][react] ![Tailwind][tailwind] ![TensorFlow][tf] ![PyTorch][pt] ![Keras][keras]
+![OpenCV][cv] ![Streamlit][streamlit] ![NumPy][numpy] ![Pandas][pandas] ![scikit-learn][sklearn] ![Matplotlib][matplotlib]
+![Plotly][plotly] ![Detectron2][detectron2] ![WebRTC][webrtc] ![Transformers][hf-transformers] 
 
 **DevOps & Cloud**  
-![Docker][dk] ![Azure][az] ![Kubernetes][k8s]
+![Docker][dk] ![Azure][az] ![Kubernetes][k8s] ![GitHub Actions][gha]
 
 **Databases**  
-![MongoDB][mongo] ![MySQL][mysql] ![SQLite][sqlite]
+![MongoDB][mongo] ![MySQL][mysql] ![SQLite][sqlite] ![Azure Cosmos DB][cosmos] ![PostgreSQL][postgres]
 
 **Tools & Platforms**  
-![Unity][unity] ![Figma][figma] ![Postman][postman] ![GitHub][gh]  
+![Unity][unity] ![Unity ML-Agents][mlagents_tool] ![Figma][figma] ![Postman][postman] ![GitHub][gh] ![Jupyter][jupyter] ![TensorBoard][tensorboard] ![VS Code][vscode] ![Hugging Face][hf]
 
 **AI & ML Concepts**  
 ![RL](https://img.shields.io/badge/Reinforcement_Learning-blue?style=for-the-badge)  ![GA](https://img.shields.io/badge/Genetic_Algorithms-purple?style=for-the-badge)  ![TransferLearning](https://img.shields.io/badge/Transfer_Learning-orange?style=for-the-badge)  
@@ -56,3 +58,26 @@ Former business academy graduate now diving into Creative Technologies & AI.
 [gh]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white  
 [react]: https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB    
 [streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+
+[numpy]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[pandas]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[sklearn]: https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+[matplotlib]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge
+[plotly]: https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
+[detectron2]: https://img.shields.io/badge/Detectron2-000000?style=for-the-badge
+[webrtc]: https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white
+
+[gha]: https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white
+
+[postgres]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+[cosmos]: https://img.shields.io/badge/Azure_Cosmos_DB-0F6CBD?style=for-the-badge&logo=microsoftazure&logoColor=white
+
+[jupyter]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[tensorboard]: https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[vscode]: https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
+[mlagents_tool]: https://img.shields.io/badge/Unity_ML--Agents-000000?style=for-the-badge&logo=unity
+
+[hf-transformers]: https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000
+[hf]: https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000
+
+
